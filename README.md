@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Parmar</h1>
 <h3 align="center">A passionate full-stack software developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working at [Quest Digiflex Pvt. LTD – Cloud-native MERN Stack Development](https://questdigiflex.com)
-
 - 🌱 I’m currently learning **Advanced AWS, Serverless Architectures, and AI Integration with JavaScript/TypeScript**
 
 - 👯 I’m looking to collaborate on [Open-source MERN Stack & Cloud projects](https://github.com/rohanparmar160705)
