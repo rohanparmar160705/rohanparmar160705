@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [AI-powered cloud-native web apps & automation](https://github.com/rohanparmar160705)
 
-- 💬 Ask me about **Node.js, Express, React, Angular, Cloud Deployment (AWS), and DevOps pipelines**
+- 💬 Ask me about **Node.js, Express, React, C/C++, Python, Go(Basics) Cloud Deployment (AWS), and DevOps pipelines**
 
 - 📫 How to reach me **rohanparmar160705@gmail.com**
 
