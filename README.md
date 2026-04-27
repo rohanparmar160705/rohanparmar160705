@@ -79,9 +79,9 @@
 
 ### GitHub Stats
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanparmar160705&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohanparmar160705&theme=github-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanparmar160705&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanparmar160705&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
