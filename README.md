@@ -79,15 +79,15 @@
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohanparmar160705&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohanparmar160705&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanparmar160705&theme=github-dark&hide_border=true&count_private=true" />
+<img src="https://streak-stats.demolab.com/?user=rohanparmar160705&theme=github-dark&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanparmar160705&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanparmar160705&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true&cache_seconds=1800" />
 
 </div>
 
