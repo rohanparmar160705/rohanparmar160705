@@ -65,7 +65,7 @@ I look for problems with no clear owner and make them mine.
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Socket.IO](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -276,6 +276,14 @@ Full-stack development with Node.js, React, real-time features, and production d
 <br/>
 
 <img src="https://gh-readme-profile.vercel.app/api/Profile?username=rohanparmar160705&theme=tokyonight&show_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&icon_color=14B8A6&count_private=true&include_all_commits=true" width="100%" />
+
+<br/>
+
+### 🏆 GitHub Achievements
+
+[![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanparmar160705?achievement=quickdraw)
+[![Pair Extraordinaire](https://img.shields.io/badge/👯_Pair_Extraordinaire-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanparmar160705?achievement=pair-extraordinaire)
+[![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanparmar160705?achievement=pull-shark)
 
 </div>
 
