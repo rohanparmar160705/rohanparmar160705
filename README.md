@@ -65,7 +65,7 @@ I look for problems with no clear owner and make them mine.
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![Socket.IO](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="48" alt="Socket.IO" />
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -275,7 +275,7 @@ Full-stack development with Node.js, React, real-time features, and production d
 
 <br/>
 
-<img src="https://gh-readme-profile.vercel.app/api/Profile?username=rohanparmar160705&theme=tokyonight&show_private=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&icon_color=14B8A6&count_private=true&include_all_commits=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanparmar160705&theme=tokyonight&hide_border=true" width="100%" />
 
 <br/>
 
