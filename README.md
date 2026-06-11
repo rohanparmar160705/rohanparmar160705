@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:0EA5E9,100:14B8A6&height=220&section=header&text=Rohan%20Parmar&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20·%20Distributed%20Systems%20·%20Event-Driven%20Architecture&descSize=18&descColor=cccccc&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:14B8A6&height=240&section=header&text=Rohan%20Parmar&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20·%20Building%20Systems%20That%20Survive%20Production&descSize=20&descColor=cccccc&descAlignY=62&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Building+systems+that+hold+up+in+production;Real-time+%7C+Multi-tenant+%7C+Event-driven)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Designing+APIs+that+scale%2C+not+just+work;Real-time+%7C+Multi-tenant+%7C+Event-driven;Backend+Engineer+%7C+Production-First+Thinker)](https://git.io/typing-svg)
 
 </div>
 
@@ -267,7 +267,7 @@ Full-stack development with Node.js, React, real-time features, and production d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohanparmar160705&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=14B8A6&text_color=ffffff&cache_seconds=1800&custom_title=Rohan's%20GitHub%20Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohanparmar160705&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=14B8A6&text_color=ffffff&cache_seconds=1800&rank_icon=github&custom_title=⚡%20Rohan's%20Production%20Stats" height="200" />
 
 <img src="https://streak-stats.demolab.com/?user=rohanparmar160705&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=14B8A6&currStreakLabel=0EA5E9" height="180" />
 
