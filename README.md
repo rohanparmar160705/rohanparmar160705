@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-Backend Software Engineer and 2026 BCA graduate with hands-on production experience designing **event-driven APIs**, **multi-tenant systems**, and **real-time infrastructure** across logistics and food-tech SaaS platforms. I ship code that runs in production — from real-time Socket.IO systems and cron-driven lifecycle automation to e-invoicing integrations (Visma, Tripletex, Maventa) — and own the system end-to-end from API design to deployment to the 3am bugs.
+Backend Software Engineer and 2026 BCA graduate with hands-on production experience designing **event-driven APIs**, **multi-tenant systems**, and **real-time infrastructure** across logistics and food-tech SaaS platforms. I ship code that runs in production — from real-time Socket.IO systems and cron-driven lifecycle automation to e-invoicing integrations Visma — and own the system end-to-end from API design to deployment to the 3am bugs.
 
 I look for problems with no clear owner and make them mine.
 
@@ -65,7 +65,7 @@ I look for problems with no clear owner and make them mine.
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![Socket.IO](https://skillicons.dev/icons?i=socketio)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -143,7 +143,7 @@ Full-stack dashboard with intelligent transaction categorization via Google Gemi
 <summary><b>🧾 Frakt360 — Norwegian Logistics Platform</b></summary>
 <br/>
 
-Production backend for Norwegian logistics merchants. Visma/Tripletex/Maventa/PostNord integrations, real-time support chat, FCM push notifications.
+Production backend for Norwegian logistics merchants. Visma e-invoicing integration, real-time support chat, FCM push notifications.
 
 | Aspect | Details |
 |--------|---------|
@@ -151,10 +151,10 @@ Production backend for Norwegian logistics merchants. Visma/Tripletex/Maventa/Po
 | **Scale** | Multi-tenant merchant platform, real-time messaging, e-invoicing |
 | **Performance** | Redis cache-aside, connection pooling, optimized webhook receivers |
 | **Security** | Firebase Auth, JWT, webhook signature validation, rate-limiting |
-| **Impact** | E-invoicing (Visma/Tripletex), real-time support, FCM push, admin dashboards |
+| **Impact** | E-invoicing (Visma), real-time support, FCM push, admin dashboards |
 | **Repository** | Private (BuildBit) |
 
-Built full support system (Redis pub/sub + Socket.IO + S3 attachments), Visma eAccounting invoice lifecycle (OAuth + webhook + KID), Tripletex integration, FCM push notification system, multi-tenant admin dashboard APIs, and 30+ production bug fixes.
+Built full support system (Redis pub/sub + Socket.IO + S3 attachments), Visma eAccounting invoice lifecycle (OAuth + webhook + KID), FCM push notification system, multi-tenant admin dashboard APIs, and 30+ production bug fixes.
 
 </details>
 
@@ -194,10 +194,10 @@ Multi-tenant SaaS platforms (Frakt360, Niam Bladi) — Norwegian logistics and f
 - 🛠️ Designed and shipped an end-to-end real-time support system (Socket.IO + Redis pub/sub + S3 attachments) — resolved a duplicate-message race condition on WebSocket reconnect
 - 🛠️ Built 4 production cron schedulers handling 100% of order terminal-state transitions (autoComplete, autoExpire, QR scan, vendor cancel, user cancel) — 0 manual interventions over 6 weeks
 - 🛠️ Architected 15+ multi-tenant admin dashboard APIs with `activeCompany` scoping — corrected a ~30% revenue undercount by switching month-window filters from `createdAt` → `pickup.pickedUpAt`
-- 🛠️ Implemented Visma eAccounting invoice lifecycle end-to-end (OAuth + customer sync + batch invoice + PDF + KID + webhook) and delivered Tripletex module as migration path
+- 🛠️ Implemented Visma eAccounting invoice lifecycle end-to-end (OAuth + customer sync + batch invoice + PDF + KID + webhook)
 - 🛠️ Diagnosed and fixed 40+ production bugs (freshTillday off-by-one, notification pagination, support chat 404/CORS) and shipped the FCM push-notification system
 
-**Tech:** Node.js, Express, MongoDB, PostgreSQL, Redis, Socket.IO, AWS S3, Firebase, FCM, Visma, Tripletex, Maventa, Cron
+**Tech:** Node.js, Express, MongoDB, PostgreSQL, Redis, Socket.IO, AWS S3, Firebase, FCM, Visma, Cron
 
 ---
 
@@ -248,30 +248,6 @@ Full-stack development with Node.js, React, real-time features, and production d
 | 🚀 Zero Manual Ops | 4 cron schedulers handling 100% of terminal-state transitions with 0 manual interventions over 6 weeks |
 | 💰 Data Correctness | Corrected ~30% revenue undercount in admin dashboard by switching month-window filters |
 | ⚡ Real-Time Systems | Shipped Socket.IO + Redis pub/sub real-time support chat with S3 attachments |
-
----
-
-## 📜 Certifications
-
-### Development & Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-### Frontend & Languages
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
