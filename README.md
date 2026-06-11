@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:8E2DE2&height=220&section=header&text=Rohan%20Parmar&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20·%20Distributed%20Systems%20·%20Event-Driven%20Architecture&descSize=18&descColor=cccccc&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:0EA5E9,100:14B8A6&height=220&section=header&text=Rohan%20Parmar&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20·%20Distributed%20Systems%20·%20Event-Driven%20Architecture&descSize=18&descColor=cccccc&descAlignY=55" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Building+systems+that+hold+up+in+production;Real-time+%7C+Multi-tenant+%7C+Event-driven)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Building+systems+that+hold+up+in+production;Real-time+%7C+Multi-tenant+%7C+Event-driven)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,15 +14,13 @@
 
 <div align="center">
 
-[![BCA](https://img.shields.io/badge/BCA'26-Mandsaur%20University-6A11CB?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.mandsauruniversity.edu.in/)
-[![Location](https://img.shields.io/badge/Indore,-India-2575FC?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17SNpNQJeeIQosT7WuR_wVKI-IHusnjdw/view)
+[![BCA](https://img.shields.io/badge/BCA'26-Mandsaur%20University-1E3A8A?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.mandsauruniversity.edu.in/)
+[![Location](https://img.shields.io/badge/Indore,-India-0EA5E9?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17SNpNQJeeIQosT7WuR_wVKI-IHusnjdw/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanparmar160705/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanparmar160705@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanparmar160705)
-[![Profile Views](https://komarev.com/ghpvc/?username=rohanparmar160705&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rohanparmar160705)
-[![Followers](https://img.shields.io/github/followers/rohanparmar160705?color=8E2DE2&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/rohanparmar160705)
-[![Stars](https://img.shields.io/github/stars/rohanparmar160705?color=2575FC&style=for-the-badge&logo=github&label=STARS)](https://github.com/rohanparmar160705)
+[![Profile Views](https://komarev.com/ghpvc/?username=rohanparmar160705&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rohanparmar160705)
 
 </div>
 
@@ -35,8 +33,8 @@ Backend Software Engineer and 2026 BCA graduate with hands-on production experie
 I look for problems with no clear owner and make them mine.
 
 - 🔭 Currently: **SDE Intern @ BuildBit** (Mar 2026 – Present)
-- 🌱 Previously: **SDE Intern @ Aarsaar Technologies** (Dec 2025 – Mar 2026)
-- 💼 9 months of production internship experience across 3 companies
+- 🌱 Previously: **SDE Intern @ Aarsaar Technologies** (Dec 2025 – Mar 2026) · **Software Engineer Intern @ WebElevate Technologies** (Jun 2025 – Sep 2025)
+- 💼 9+ months of production internship experience across 3 companies
 - 🎯 Targeting **SDE-1 Backend** roles — open to on-site (India) or remote
 - 🧠 Strong in: Node.js, PostgreSQL, MongoDB, Redis, Socket.IO, Kafka, event-driven architecture
 
@@ -52,6 +50,7 @@ I look for problems with no clear owner and make them mine.
 ![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C](https://skillicons.dev/icons?i=c)
+![Go](https://skillicons.dev/icons?i=go)
 
 ### Frontend
 
@@ -66,7 +65,6 @@ I look for problems with no clear owner and make them mine.
 
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![Socket.IO](https://skillicons.dev/icons?i=socketio)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -199,7 +197,7 @@ Multi-tenant SaaS platforms (Frakt360, Niam Bladi) — Norwegian logistics and f
 - 🛠️ Implemented Visma eAccounting invoice lifecycle end-to-end (OAuth + customer sync + batch invoice + PDF + KID + webhook) and delivered Tripletex module as migration path
 - 🛠️ Diagnosed and fixed 40+ production bugs (freshTillday off-by-one, notification pagination, support chat 404/CORS) and shipped the FCM push-notification system
 
-**Tech:** Node.js, Express, MongoDB, PostgreSQL, Redis, Socket.IO, AWS S3, Firebase, FCM, Visma, Tripletex, Maventa, Socket.IO, Cron
+**Tech:** Node.js, Express, MongoDB, PostgreSQL, Redis, Socket.IO, AWS S3, Firebase, FCM, Visma, Tripletex, Maventa, Cron
 
 ---
 
@@ -273,6 +271,7 @@ Full-stack development with Node.js, React, real-time features, and production d
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
@@ -280,7 +279,7 @@ Full-stack development with Node.js, React, real-time features, and production d
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=40)](https://leetcode.com/u/rohanparmar160705/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rohanparmar160705/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanparmar160705)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanparmar160705/)
 
@@ -292,21 +291,11 @@ Full-stack development with Node.js, React, real-time features, and production d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohanparmar160705&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=2575FC&text_color=ffffff&cache_seconds=1800&custom_title=Rohan's%20GitHub%20Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohanparmar160705&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=14B8A6&text_color=ffffff&cache_seconds=1800&custom_title=Rohan's%20GitHub%20Stats" height="180" />
 
-<img src="https://streak-stats.demolab.com/?user=rohanparmar160705&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=2575FC&currStreakLabel=8E2DE2" height="180" />
+<img src="https://streak-stats.demolab.com/?user=rohanparmar160705&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=14B8A6&currStreakLabel=0EA5E9" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanparmar160705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=ffffff&langs_count=8&count_private=true&cache_seconds=1800" height="180" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohanparmar160705&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanparmar160705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&langs_count=8&count_private=true&cache_seconds=1800" height="180" />
 
 </div>
 
@@ -316,17 +305,7 @@ Full-stack development with Node.js, React, real-time features, and production d
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanparmar160705&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=8E2DE2&line=2575FC&point=ffffff" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rohanparmar160705/rohanparmar160705/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanparmar160705&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=0EA5E9&line=14B8A6&point=ffffff" width="100%" />
 
 </div>
 
@@ -339,6 +318,7 @@ learning:
   - Advanced Kafka internals and stream processing patterns
   - System design for distributed systems at scale
   - PostgreSQL query optimization and indexing strategies
+  - Go for backend services and CLI tooling
 
 building:
   - Real-time event-driven microservices
@@ -376,6 +356,6 @@ open_to:
 
 *"Build systems that hold up in production, not just in development."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:8E2DE2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:0EA5E9,100:14B8A6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" width="100%" />
 
 </div>
